@@ -1,6 +1,6 @@
-Welcome to Team Bermuda,! ガンダムチームのページへようこそ！
-================
-We are a team mostly from Bermuda, with members living as close as Canada and half a world away in Australia.
+Welcome to Team Bermuda,! 
+===============
+We are a team of Designers, Developers, Hackers and Gamers, mostly in the islands of Bermuda, with one member living as close as Canada and another as far as Australia.
 
 
 About Our Team
